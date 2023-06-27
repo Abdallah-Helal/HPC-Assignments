@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1679372640 source:e:\3 second term\high_performance\hpc\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"mpi.h"
+
